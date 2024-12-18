@@ -11,7 +11,7 @@ seamless adaptation to various autoregressive models for visual generation.
 </div>
 
 ## Code usage
-
+To be finished in 1-2 days.
 
 ## Visualization
 <div  align="center">    
