@@ -31,7 +31,7 @@ LlamaGen-XL + NPP (cfg=1.70) | 775M | DDP | 16x16 | 2.65 | [c2i_XL_256.pt]()
 LlamaGen-XXL + NPP (cfg=1.65) | 1.4B | DDP | 16x16 | 2.55 | [c2i_XXL_256.pt]()
 
 <div  align="center">    
- <img src="./assets/teaser.png" width = "666"  align=center />
+ <img src="./assets/teaser.png" width = "400"  align=center />
 </div>
 
 
