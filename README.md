@@ -12,7 +12,7 @@ seamless adaptation to various autoregressive models for visual generation.
 
 Work in progress 🚀🚀🚀
 - [x] Code and Instructions
-- [ ] Checkpoints
+- [x] Checkpoints
 - [ ] ArXiv release
 
 
@@ -25,10 +25,10 @@ We use [vq_ds16_c2i.pt](https://huggingface.co/FoundationVision/LlamaGen/resolve
 ### AR models
 Method | params | training | tokens | FID (256x256) | weight 
 --- |:---:|:---:|:---:|:---:|:---:|
-LlamaGen-B + NPP (cfg=2.0) | 111M | DDP | 16x16 | 4.47 | [c2i_B_256.pt]()
-LlamaGen-L + NPP (cfg=1.75) | 343M | DDP | 16x16 | 2.76 | [c2i_L_256.pt]()
-LlamaGen-XL + NPP (cfg=1.70) | 775M | DDP | 16x16 | 2.65 | [c2i_XL_256.pt]()
-LlamaGen-XXL + NPP (cfg=1.65) | 1.4B | DDP | 16x16 | 2.55 | [c2i_XXL_256.pt]()
+LlamaGen-B + NPP (cfg=2.0) | 111M | DDP | 16x16 | 4.47 | [c2i_B_256.pt](https://huggingface.co/pytttttt/LlamaGen-NPP/resolve/main/c2i_B_256.pt?download=true)
+LlamaGen-L + NPP (cfg=1.75) | 343M | DDP | 16x16 | 2.76 | [c2i_L_256.pt](https://huggingface.co/pytttttt/LlamaGen-NPP/resolve/main/c2i_L_256.pt?download=true)
+LlamaGen-XL + NPP (cfg=1.70) | 775M | DDP | 16x16 | 2.65 | [c2i_XL_256.pt](https://huggingface.co/pytttttt/LlamaGen-NPP/resolve/main/c2i_XL_256.pt?download=true)
+LlamaGen-XXL + NPP (cfg=1.65) | 1.4B | DDP | 16x16 | 2.55 | [c2i_XXL_256.pt](https://huggingface.co/pytttttt/LlamaGen-NPP/resolve/main/c2i_XXL_256.pt?download=true)
 
 <div  align="center">    
  <img src="./assets/teaser.png" width = "400"  align=center />
