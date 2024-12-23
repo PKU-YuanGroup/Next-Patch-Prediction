@@ -75,5 +75,13 @@ Our code is based on [LlamaGen](https://github.com/FoundationVision/LlamaGen). T
 ## BibTex
 
 ```
-
+@misc{pang2024patchpredictionautoregressivevisual,
+      title={Next Patch Prediction for Autoregressive Visual Generation}, 
+      author={Yatian Pang and Peng Jin and Shuo Yang and Bin Lin and Bin Zhu and Zhenyu Tang and Liuhan Chen and Francis E. H. Tay and Ser-Nam Lim and Harry Yang and Li Yuan},
+      year={2024},
+      eprint={2412.15321},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2412.15321}, 
+}
 ```
