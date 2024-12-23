@@ -1,4 +1,4 @@
-# Next Patch Prediction for Autoregressive Visual Generation, [ArXiv](https://arxiv.org/abs/)
+# Next Patch Prediction for Autoregressive Visual Generation, [ArXiv](https://arxiv.org/abs/2412.15321)
 
 🎉🎉🎉 In this work, we propose a novel Next Patch Prediction (NPP) paradigm for autoregressive image generation. Our method could reduce the training cost to ∼ 0.6× while improving image generation quality by up to 1.0 FID score on the ImageNet benchmark.
 
@@ -10,13 +10,14 @@ seamless adaptation to various autoregressive models for visual generation.
 </div>
 
 
-Work in progress 🚀🚀🚀
-- [x] Code and Instructions
-- [x] Checkpoints
-- [ ] ArXiv release
-
 
 ## Class-conditional image generation on ImageNet
+
+### Generation results
+<div  align="center">    
+ <img src="./assets/vis.png" width = "666"  align=center />
+</div>
+
 
 ### VQ-VAE models
 
@@ -34,11 +35,6 @@ LlamaGen-XXL + NPP (cfg=1.65) | 1.4B | DDP | 16x16 | 2.55 | [c2i_XXL_256.pt](htt
  <img src="./assets/teaser.png" width = "400"  align=center />
 </div>
 
-
-## Generation results
-<div  align="center">    
- <img src="./assets/vis.png" width = "666"  align=center />
-</div>
 
 ## Code Usage 
 #### 0.Requirements
