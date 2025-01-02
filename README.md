@@ -70,7 +70,7 @@ python3 evaluations/c2i/evaluator.py VIRTUAL_imagenet256_labeled.npz samples/GPT
 
 ## Acknowledgements
 
-Our code is based on [LlamaGen](https://github.com/FoundationVision/LlamaGen). Thanks for their great work. 
+Our code is based on [LlamaGen](https://github.com/FoundationVision/LlamaGen). Our work is partly inspired by [Patch-Level Training for Large Language Models](https://github.com/shaochenze/PatchTrain). Thanks for their great work. 
 
 ## BibTex
 
